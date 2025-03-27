@@ -33,7 +33,7 @@ const TaskForm = ({ addTask }) => {
           <option value="Medium">Medium</option>
           <option value="High">High</option>
         </select>
-        <button type="submit" className="w-full bg-blue-600 text-white p-2 rounded-lg hover:bg-blue-700">
+        <button type="submit" className="w-full bg-blue-600 text-black p-2 rounded-lg hover:bg-blue-700">
           Add Task
         </button>
       </form>
