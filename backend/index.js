@@ -1,7 +1,3 @@
-//Muntasir14
-//mongodb+srv://mdmuntasirazad:Muntasir14@cluster0.nlrhm38.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-
-
 require("dotenv").config();
 const express = require("express");
 const cors = require("cors");
