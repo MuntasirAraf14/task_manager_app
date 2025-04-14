@@ -41,20 +41,35 @@ The README file will include:
     cd task_manager_app
 
     Navigate to the backend folder:
+
         cd backend
+
     Install dependencies:
+
         npm install
+
     Create a .env file and add the following:
+
         PORT=5000
+
         MONGO_URI=your_mongodb_connection_string
+
         JWT_SECRET=your_jwt_secret
+
     Start the backend server:
+
         npm run dev
+
     Navigate to the frontend folder:
+
         cd ../frontend
+
     Install dependencies:
+
         npm install
+
     Start the React development server:
+    
         npm start
 
     The backend will run on http://localhost:5000.
