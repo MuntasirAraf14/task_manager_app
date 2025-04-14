@@ -16,10 +16,10 @@ mongoose
   .connect(process.env.MONGO_URI)
   .then(() => console.log("MongoDB Connected"))
   .catch((err) => console.error(err));
-
+  
 // Routes
 app.get("/", (req, res) => {
-  res.send("Welcome to the Task Manager API!");
+  res.send("Welcome to the Task Manager API!"); 
 });
 
 // Start Server
