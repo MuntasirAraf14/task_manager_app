@@ -31,6 +31,14 @@ The README file will include:
     
     Authentication: JWT
 
+4. Project structure --
+
+This project is organized into two main directories:
+
+frontend/: Contains the React frontend application
+
+backend/: Contains the Node.js/Express backend API
+
 4. Installation and setup instructions -- 
 
     Prerequisites:
@@ -39,6 +47,8 @@ The README file will include:
     #Node.js
 
     #MongoDB (local or cloud-based)
+
+    npm or yarn
 
 5. How to run the app locally --
     
