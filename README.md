@@ -12,16 +12,23 @@ The README file will include:
 2. Features -- 
 
     ✅ User authentication (JWT-based)
-    ✅ Create, update, delete, and manage tasks
+
+    ✅ Create, update, delete, and manage task
+    
     ✅ User-specific task management
+
     ✅ Responsive UI with React
+
     ✅ RESTful API with Express.js & MongoDB
 
 3. Tech stack --
 
     Frontend: React.js
+
     Backend: Node.js, Express.js
+
     Database: MongoDB
+    
     Authentication: JWT
 
 4. Installation and setup instructions -- 
@@ -69,7 +76,7 @@ The README file will include:
         npm install
 
     Start the React development server:
-    
+
         npm start
 
     The backend will run on http://localhost:5000.
